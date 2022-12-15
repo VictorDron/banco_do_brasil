@@ -35,7 +35,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    color: white;
+    color: #465EFF;
     flex: 70%;
 }
 
@@ -52,7 +52,7 @@
     height: 100%;
     font-size: 30px;
     /* border: 1px solid blue ; */
-    color: #EC7000;
+    color: #465EFF;
      
     
 }
@@ -73,7 +73,7 @@
 
 #invite1{
 
-    border: 1px solid #EC7000 ;
+    border: 1px solid #465EFF ;
     border-radius: 10px;
     width: 40%;
     height: 40%;
@@ -84,7 +84,7 @@
 #invite1 h2 {
 
     margin-top: 8%;
-    color: #EC7000;
+    color: #465EFF;
 }
 
 .invite{

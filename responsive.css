@@ -11,7 +11,7 @@
         justify-content: center;
         height: 100px;
         width: 100%;
-        background-color:#EC7000;
+        background-color:#FCFC30;
         /* border: 1px solid red ; */
     }
     
@@ -21,7 +21,7 @@
     }
     
     .img1{
-        
+        margin-left: 37%;
          height: 100%;
          /* border: 1px solid blue  */
     }
@@ -31,7 +31,7 @@
         display: none;
         align-items: center;
         justify-content: center;
-        color: white;
+        color: #465EFF;
         flex: 70%;
     }
     
@@ -53,7 +53,7 @@
         height: 100%;
         font-size: 90%;
         /* border: 1px solid blue ; */
-        color: #EC7000;
+        color: #465EFF;
          
         
     }
@@ -84,7 +84,7 @@
 
     #invite1{
     
-        border: 1px solid #EC7000 ;
+        border: 1px solid #465EFF ;
         border-radius: 5px;
         width: 90%;
         height: 30%;
@@ -95,7 +95,7 @@
     #invite1 h2 {
     
         margin-top: 2%;
-        color: #EC7000;
+        color: #465EFF;
     }
 
     #up{
